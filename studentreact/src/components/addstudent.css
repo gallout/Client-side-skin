@@ -1,0 +1,28 @@
+.LastName  {
+    padding-left: 3.4em;
+  }
+
+.FirstMidName{
+    padding-left: 5.5em;
+    padding-top: -7px;
+  }
+.EnrollmentDate{
+    padding-top: -7px;
+}
+
+.right-block {
+    margin-left: 20px;
+    background-color: #ebebeb;
+
+    
+}
+.delete-button{
+    margin-left: 100px;
+    margin-top: 10px;
+}
+
+.Submit{
+    margin-left: 50px;
+    padding-left: 5.8em;
+    margin-top: 10px;
+}

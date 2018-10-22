@@ -1,0 +1,59 @@
+
+
+table {
+	border-collapse: collapse;
+	border-spacing: 0 !important;
+    border: 0;
+    border-radius: 10px;
+    width: 100%;
+}
+
+
+.table th{
+    font-family: Helvetica, sans-serif;
+    color: #000300;
+    margin: 0px;
+    border-width: 0px;
+    border-collapse: collapse;
+    border-spacing: 0;
+    line-height: 20px;
+    padding-left: 1.5em;
+    
+}
+
+.table td {
+
+ border: 0px solid grey;
+ margin: 0px;
+ border-width: 0px;
+ padding: 0;
+ border-spacing: 0;
+ box-shadow: 0 0 0.1px gray ; /* Межячеечная тень */
+ line-height: 25px;
+ padding-left: 1.5em;
+}
+
+.main-line {
+  font-family: Helvetica, sans-serif;
+  color: #ccc;
+  margin: 0px;
+  border-width: 0px;
+  border-collapse: collapse;
+  background-color: #cccccc;
+  border-spacing: 0;
+  box-shadow:  0px -4px 3px -1px #f0bf43 , -2px 0px 0px gray, 2px 0px 0px gray;
+  border-radius: 5px;
+ 
+}
+
+.body{
+  
+  box-shadow:  -2px 0px 0px gray, 2px 0px 0px gray;
+  border-radius: 5px;
+  text-align: center;
+}
+
+.anketa {
+  background: linear-gradient(45deg, #fcca07, #f99e0b);
+}
+
